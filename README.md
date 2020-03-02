@@ -11,4 +11,4 @@ This is a repo for storing _scripts_ for researches in __Ziels's lab__
 
 ```bash
 $ cd ~/Desktop
-``
+```
