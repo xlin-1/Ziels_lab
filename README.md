@@ -1,4 +1,7 @@
 # Ziels_lab
+__Group Members__
+
+[Xuan Lin](https://github.com/xlin-1) @xlin-1
 ## scripts
 
 This is a repo for storing _scripts_ for researches in __Ziels's lab__
